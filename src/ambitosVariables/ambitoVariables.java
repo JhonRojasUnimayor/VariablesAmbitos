@@ -1,7 +1,10 @@
 package ambitosVariables;
 
 //Ejemplo de ámbito de un bloque. 
-
+/*
+ * 
+ * ejemplo de amabitos
+ */
 class Ambito { 
 
 	public static void main(String args[]) { 
